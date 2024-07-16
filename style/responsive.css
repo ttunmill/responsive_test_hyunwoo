@@ -1,8 +1,12 @@
-/* 태블릿 start*/
-@media screen and (max-width: 1000px) {
+/* navigation & layout */
+@media screen and (max-width: 1400px) {
     header nav {display: none;}
     header .side_nav {display: none;}
     .sec01 > *:not(.main_visual) {width: auto;}
+}
+/* 태블릿 start*/
+@media screen and (max-width: 1000px) {
+    
 } /* 태블릿 end */
 
 /* 모바일 start */
